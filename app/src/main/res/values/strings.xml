@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">S Pen Demo</string>
+    <string name="spen_title">Hola S Pen Remote</string>
+    <string name="spen_subtitle">ℹ️ Pulsa el botón del S Pen para seleccionar las direcciones</string>
+    <string name="spen_connect">Conectar S Pen</string>
+    <string name="spen_disconnect">Desconectar S Pen</string>
+    <string name="spen_unsupported_device">El dispositivo no soporta S Pen</string>
+    <string name="spen_connection_failed">Error al conectar el S Pen</string>
+    <string name="spen_error">Error desconocido</string>
+    <string name="spen_airmotion">Air Motion: </string>
+    <string name="spen_try">Pruébalo</string>
+</resources>
